@@ -8,10 +8,18 @@ h1{
     font-weight: 700;
     font-size: 70px;
 }
-.para-margin{
-    margin-bottom: 70px;
+h2{
+    font-weight: 700;
+    font-size: 40px;
 }
-.order-button{
+.para-edit{
+    margin-bottom: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    width:50%;
+
+}
+.button{
     text-decoration: none;
     color:rgb(0, 255, 221);
     background-image: linear-gradient(rgb(221, 13, 13) , rgb(221, 4, 138));
@@ -21,7 +29,7 @@ h1{
     
    
 }
-.first-section{
+.section{
     display: flex;
 }
 .max-width{
@@ -29,8 +37,18 @@ h1{
     padding-left: 5%;
     
 }
-img{
+.img1{
     
     width:100%;
+}
+.img2{
+    width:80%;
+}
+.grey-color{
+    color:grey;
+}
+.background-img{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+
 }
 
