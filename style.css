@@ -13,10 +13,10 @@ h2{
     font-size: 40px;
 }
 .para-edit{
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
-    width:50%;
+    width:70%;
 
 }
 .button{
@@ -51,4 +51,32 @@ h2{
     background-image: url(images/shapes/Frame\ 59.jpg);
 
 }
+.align{
+    text-align:center;
+}
+.sec3-para{
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.img3{
+    padding-left:3%;
+    padding-top: 5%;
+    height:50%;
+    width: 90%;
+}
+.img4{
+    padding-left:3%;
+    padding-top: 5%;
+    height:50%;
+    width: 90%;
+}
+.width{
+    width:40%;
+    margin: 5% 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 25px;
+    border-radius: 10px;
+    
+}
+
 
