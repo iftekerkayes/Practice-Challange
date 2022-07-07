@@ -78,5 +78,26 @@ h2{
     border-radius: 10px;
     
 }
+.display-inline{
+    display: inline-block;
+    margin-left: 260px;
+}
+#border-box{
+    margin-left: 120px;
+    margin-right: 120px;
+    border:20px solid lightcoral;
+}
+#footer{
+    background-color: blueviolet;
+    height: 200px;
+    text-align: center;
 
 
+    
+}
+#eat-color{
+    color: yellowgreen;
+}
+#padd{
+    padding-top:40px;
+}
